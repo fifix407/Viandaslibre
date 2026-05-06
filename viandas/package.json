@@ -1,0 +1,17 @@
+{
+  "name": "viandalibre_web",
+  "version": "1.0.0",
+  "description": "Sistema web para ViandaLibre",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"No start script defined\"",
+    "build": "echo \"No build script defined\""
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0"
+  },
+  "devDependencies": {},
+  "keywords": ["php", "mvc", "viandas"],
+  "author": "",
+  "license": "ISC"
+}
